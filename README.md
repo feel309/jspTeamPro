@@ -53,5 +53,8 @@ Connection 생성, Connection/Statement/PreparedStatement 반환 메소드,
 <hr>
 <h3>개선사항</h3>
 1 코드 리팩토링
+
+
 2 인터페이스 사용하여 클래스간 의존성 낮추기
+
 3 테스트 코드 추가
