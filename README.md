@@ -17,7 +17,8 @@ JSP, 서블릿을 이용하여 특색 있는 여행지의 정보들을 검색하
 IDE- 이클립스
 
 <h3>DB설계</h3>
-![image](https://user-images.githubusercontent.com/36668707/65382453-a8bb3f80-dd40-11e9-8895-f70385131cb2.png)
+<img width="889" alt="default" src="https://user-images.githubusercontent.com/36668707/65382453-a8bb3f80-dd40-11e9-8895-f70385131cb2.png">
+
 
 <h3>구현기능</h3>
 <h3>JDBC 템플릿을 이용한 DB 연동</h3>
