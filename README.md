@@ -35,7 +35,7 @@ Connection 생성, Connection/Statement/PreparedStatement 반환 메소드,
 스크랩하기 버튼을 누르면 
 스크랩할 수 없고, 
 로그인한 후에 스크랩하기 버튼을 클릭하면 스크랩을 할 수 있다.
-<img width="450" alt="default" src="https://user-images.githubusercontent.com/36668707/65383034-d6f14d00-dd49-11e9-8884-fbbcc9648ced.png">
+<img width="500" alt="default" src="https://user-images.githubusercontent.com/36668707/65383058-2afc3180-dd4a-11e9-8f04-f39292cf6b24.png">
 
 <hr>
 <h3>비밀번호 암호화</h3>
