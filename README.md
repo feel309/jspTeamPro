@@ -26,8 +26,8 @@ DBMS 연동, 객체반환, 트렌젝션 처리 등 중복 코드를 새로운 �
 Connection 생성, Connection/Statement/PreparedStatement 반환 메소드, 
 트렌젝션(commit. rollback)
 <img width="500" alt="default" src="https://user-images.githubusercontent.com/36668707/65382990-3e5acd00-dd49-11e9-82a2-b6d56443b2cf.png">
+<img width="500" alt="default" src="https://user-images.githubusercontent.com/36668707/65383001-7104c580-dd49-11e9-8ed4-3334973c8e94.png">
 
-<img width="400" alt="default" src="https://user-images.githubusercontent.com/36668707/65382930-af4db500-dd48-11e9-887c-0f5f0b4fa44f.png">
 
 <hr>
 <h3>Ajax 이용한 스크랩</h3>
