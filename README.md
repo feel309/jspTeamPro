@@ -48,7 +48,7 @@ Connection 생성, Connection/Statement/PreparedStatement 반환 메소드,
 상태로 데이터베이스에 
 저장된다.
 <img width="500" alt="default" src="https://user-images.githubusercontent.com/36668707/65383097-defdbc80-dd4a-11e9-867f-3a951b3e4603.png">
-<img width="450" alt="default" src="https://user-images.githubusercontent.com/36668707/65383111-1a988680-dd4b-11e9-9e54-452ed029ed54.png">
+<img width="500" alt="default" src="https://user-images.githubusercontent.com/36668707/65383111-1a988680-dd4b-11e9-9e54-452ed029ed54.png">
 
 <hr>
 <h3>개선사항</h3>
