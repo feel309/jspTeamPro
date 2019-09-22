@@ -19,7 +19,6 @@ IDE- 이클립스
 <h3>DB설계</h3>
 ![image](https://user-images.githubusercontent.com/36668707/65382453-a8bb3f80-dd40-11e9-8895-f70385131cb2.png)
 
-
 <h3>구현기능</h3>
 <h3>JDBC 템플릿을 이용한 DB 연동</h3>
 DBMS 연동, 객체반환, 트렌젝션 처리 등 중복 코드를 새로운 클래스에서 구동될 수 있게 연동 재설계
