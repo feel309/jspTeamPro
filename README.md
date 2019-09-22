@@ -47,7 +47,7 @@ Connection 생성, Connection/Statement/PreparedStatement 반환 메소드,
 메소드가 작동하여 암호화된 
 상태로 데이터베이스에 
 저장된다.
-★이미지
+<img width="500" alt="default" src="https://user-images.githubusercontent.com/36668707/65383097-defdbc80-dd4a-11e9-867f-3a951b3e4603.png">
 
 <hr>
 <h3>개선사항</h3>
