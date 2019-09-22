@@ -25,8 +25,8 @@ IDE- 이클립스
 DBMS 연동, 객체반환, 트렌젝션 처리 등 중복 코드를 새로운 클래스에서 구동될 수 있게 연동 재설계
 Connection 생성, Connection/Statement/PreparedStatement 반환 메소드, 
 트렌젝션(commit. rollback)
-![image](https://user-images.githubusercontent.com/36668707/65382917-7d3c5300-dd48-11e9-983f-e0022b4d2ca6.png)
-
+<img width="889" alt="default" src="https://user-images.githubusercontent.com/36668707/65382917-7d3c5300-dd48-11e9-983f-e0022b4d2ca6.png">
+<img width="889" alt="default" src="https://user-images.githubusercontent.com/36668707/65382930-af4db500-dd48-11e9-887c-0f5f0b4fa44f.png">
 
 <hr>
 <h3>Ajax 이용한 스크랩</h3>
